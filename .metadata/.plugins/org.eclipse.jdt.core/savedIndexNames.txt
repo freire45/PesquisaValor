@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\2 - Cursos Particulares\Algoritmos e Lógica de Programação\Modulo8\55 - Pesquisa Valor\Codigo\.metadata\.metadata\.plugins\org.eclipse.jdt.core
+1504117048.index
+1289320443.index

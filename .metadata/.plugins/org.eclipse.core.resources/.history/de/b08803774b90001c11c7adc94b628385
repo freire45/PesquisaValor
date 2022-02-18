@@ -1,0 +1,9 @@
+package br.com.erickfreire.pesquisavalor;
+
+public class PesquisaValor {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

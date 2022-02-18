@@ -1,0 +1,24 @@
+package br.com.erickfreire.pesquisavalor;
+
+import java.util.Scanner;
+
+public class PesquisaValor {
+
+	public static void main(String[] args) {
+		int i;
+		boolean acha;
+		double vetorA[] = new double[10];
+		double pesquisa;
+		int resposta;
+		Scanner entrada = new Scanner(System.in);
+		
+		for(i = 0; i <= 9; i++) {
+			System.out.print("Digite um valor: ");
+			vetorA[i] = entrada.nextDouble();
+		}
+		
+		System.out.print("Deseja Pesquisar um valor? Digite 1 - Sim ou 2 - Para Não");
+		
+	}
+
+}
